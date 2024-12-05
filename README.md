@@ -34,7 +34,6 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
 ### Premium Partners
-
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
 - **[WebReinvent](https://webreinvent.com/)**
@@ -49,6 +48,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[byte5](https://byte5.de)**
 - **[OP.GG](https://op.gg)**
 
+  
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
@@ -60,6 +60,16 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+### installation
+
+- **[git clone https://github.com/AangHub/EduPriority]**
+- **[cd EduPriority]**
+- **[cp .env.example .env]**
+- **[composer install]**
+- **[php artisan key:generate]**
+- **[php artisan migrate]**
+- **[php artisan serve]**
 
 ## License
 
